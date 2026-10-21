@@ -195,6 +195,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <a href="Bai_6.php">Bài 6</a>
 <a href="Bai_7.php">Bài 7</a>
 <a href="Bai_8.php">Bài 8</a>
+<a href="bai9">Bài 9</a>
+<a href="bai10">Bài 10</a>
 <body>
 
 <div class="container">
