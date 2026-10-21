@@ -113,6 +113,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         .success-box img { max-width: 100px; border-radius: 50%; margin-top: 10px; border: 2px solid #27ae60;}
     </style>
 </head>
+    <a href="index.php">Bài 1</a>
+<a href="Bai_2.php">Bài 2</a>
+<a href="Bai_3.php">Bài 3</a>
+<a href="Bai_4.php">Bài 4</a>
+<a href="Bai_5.php">Bài 5</a>
+<a href="Bai_6.php">Bài 6</a>
+<a href="Bai_7.php">Bài 7</a>
+<a href="Bai_8.php">Bài 8</a>
+<a href="bai9">Bài 9</a>
+<a href="bai10">Bài 10</a>
 <body>
 
 <div class="container">
